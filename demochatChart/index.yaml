@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  demochatChart:
+  - apiVersion: v1
+    created: 2018-01-14T13:33:15.544377+02:00
+    description: demochatChart
+    digest: 6a2c7c1ee37208c7d343a2d2175a53a3f3102312ed373287f51e87386a9d405e
+    name: demochatChart
+    urls:
+    - demochatChart-1.tgz
+    version: "1"
+generated: 2018-01-14T13:33:15.539483+02:00
