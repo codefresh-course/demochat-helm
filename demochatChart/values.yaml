@@ -17,4 +17,4 @@ service:
 commit:
   sha: "i1234"
   branch: "master"
-  repo : "verchol/demochat"
+  repo : "codefresh-course/demochat"
