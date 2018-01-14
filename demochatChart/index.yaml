@@ -13,4 +13,6 @@ entries:
     name: demochat
     sources:
     - https://github.com/codefresh-course/demochat-helm
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/acs-engine-autoscaler-2.1.1.tgz
     version: 1.0
