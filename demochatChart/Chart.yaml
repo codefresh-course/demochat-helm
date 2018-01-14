@@ -1,4 +1,4 @@
 apiVersion: v1
-description: demochat
+description: demochatChart
 name: demochatChart
 version: 1.0
